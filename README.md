@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gustavogmfarias
-- 👀 I’m interested in Java, Books, Chess and my family.
+- 👀 I’m interested in Java, JavaScript Books, Chess and my family.
 - 🌱 I’m currently learning System Informations at Fluminense Federal Institute in Brazil.
 
 
