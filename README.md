@@ -37,7 +37,7 @@ Com esses conhecimentos, desenvolvo soluções eficientes que garantem qualidade
 ## 📫 Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavogmfarias)
-- [![Site](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://gugo.dev)
+- [![Site Profissional](https://img.shields.io/badge/Site_Pessoal-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gugo.dev)
 
 ---
 
