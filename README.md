@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Gustavo Goulart]!
+# 👋 Olá, sou Gustavo Goulart!
 
 🎓 **Formado em Sistemas de Informação pelo Instituto Federal Fluminense (IFF)**  
 💻 **Desenvolvedor Java, JavaScript, HTML, CSS e PostgreSQL**
